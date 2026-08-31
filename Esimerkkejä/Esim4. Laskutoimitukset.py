@@ -19,3 +19,4 @@ print (luku1 % luku2)
 
 #potenssiinkorotus
 print (luku1 ** luku2)
+

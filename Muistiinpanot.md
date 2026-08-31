@@ -19,4 +19,4 @@ Potenssiin korotus **
 TUlosteen muotoilu
 .jokunumero F. eli "f" antaa ilmi että tulosteessa  on käytetty muotoilua. Esim desimaaleja. KATSO esim 5 BMI laskenta
 
-Tarvitaan pääasiassa import math ja random kirjastoja
+Tarvitaan pääasiassa import math ja random kirjastoja esim. math.pii
